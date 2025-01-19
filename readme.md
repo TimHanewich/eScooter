@@ -5,13 +5,14 @@ I may make my own eScooter/eBike.
 - Motor: Platinum 5230SL 190KV
     - Listings:
         - [On Hobby Wing](https://www.hobbywingdirect.com/products/platinum-fw-5230-motors?variant=42212563452019)
+            - [Marketing Page](https://www.hobbywing.com/en/products/Platinum5230.html)
             - [Specs](https://cdn.shopify.com/s/files/1/0109/9702/files/pl5230-data.pdf?v=1724706933)
         - [On Hobby King](https://www.towerhobbies.com/product/platinum-5230sl-motor-190kv/HWI30416200.html)
         - [On Amain Hobbies](https://www.amainhobbies.com/hobbywing-platinum-5230sl-brushless-outrunner-motor-190kv-hwa30416200/p1578736)
     - Voltage: 12S, but specs show it performing at 10S, so lower S's should work.
     - 112A max current (stall)
     - 4,895w max power
-    - Specification chart: [page 1](https://cdn.shopify.com/s/files/1/0109/9702/files/5200s-spec0.png?v=1724707806), [page 2](https://cdn.shopify.com/s/files/1/0109/9702/files/5200s-spec1.png?v=1724707804), found [here](https://www.hobbywingdirect.com/collections/hobbywing-brushless-motors-aircraft/products/platinum-fw-5220-motors?variant=42212271358067)
+    - It appears to use 4mm male bullet connectors, just like [this motor does](https://a.co/d/dk6BBRY).
 - ESC: [Flipsky ESC](https://a.co/d/dBIZRvv)
     - 3-13S (8 volts - 60 volts)
     - 50A continuous
