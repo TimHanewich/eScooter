@@ -5,7 +5,7 @@ I may make my own eScooter/eBike.
 - Motor: Platinum 5230SL 190KV
     - Listings:
         - [On Hobby Wing](https://www.hobbywingdirect.com/products/platinum-fw-5230-motors?variant=42212563452019)
-            - Specs: https://cdn.shopify.com/s/files/1/0109/9702/files/pl5230-data.pdf?v=1724706933
+            - [Specs](https://cdn.shopify.com/s/files/1/0109/9702/files/pl5230-data.pdf?v=1724706933)
         - [On Hobby King](https://www.towerhobbies.com/product/platinum-5230sl-motor-190kv/HWI30416200.html)
         - [On Amain Hobbies](https://www.amainhobbies.com/hobbywing-platinum-5230sl-brushless-outrunner-motor-190kv-hwa30416200/p1578736)
     - Voltage: 12S, but specs show it performing at 10S, so lower S's should work.
