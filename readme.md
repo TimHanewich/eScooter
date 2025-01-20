@@ -2,6 +2,10 @@
 I may make my own eScooter/eBike.
 
 ## Possible Configuration
+- Bike: Schwinn SX2000 Mountain Bike
+    - [My actual bike](https://i.imgur.com/GaSKJRi.jpeg)
+    - [Online listing](https://www.propertyroom.com/l/schwinn-sx2000-mountain-bike/10507696)
+    - [Online listing on facebook marketplace](https://www.facebook.com/marketplace/item/3741195909458022/?_rdr)
 - Motor: Platinum 5230SL 190KV
     - Listings:
         - [On Hobby Wing](https://www.hobbywingdirect.com/products/platinum-fw-5230-motors?variant=42212563452019)
