@@ -18,6 +18,8 @@ I may make my own eScooter/eBike.
     - 50A continuous
     - 150A burst
     - PWM input
+- Batteries: 3 [4S 3300 mAh LiPo batterys (60C)](https://a.co/d/cUkfjpm), in a series (effectively 12S)
+- [5V Buck Converter](https://a.co/d/enad4n0)
 
 ## Possible Shops
 - For motors
@@ -38,6 +40,9 @@ I may make my own eScooter/eBike.
     - $72: 50A, 3-12S ESC: https://a.co/d/eVvcFJE (*Amazon Prime*)
     - $99: 200A, 5-12S ESC: https://a.co/d/26q7Vlr
     - $140: 120A, 12S ESC: https://www.underwaterthruster.com/products/apisqueen-lightning-esc-12s-lipo-48v-60a-120a-160a-for-thrusters-brushless-motors-drones-etc?variant=44063481397476&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gQT=2
+- 5V Buck Converter
+    - https://a.co/d/enad4n0
+    - https://a.co/d/2DZnsPa
 
 ## Inspiration
 - https://www.youtube.com/watch?v=9rIIJbDkpN8
