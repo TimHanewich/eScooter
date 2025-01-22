@@ -55,11 +55,17 @@ I may make my own eScooter/eBike.
     - https://a.co/d/2DZnsPa
 
 ## VESC Challenges
-- https://forum.esk8.news/t/one-motor-not-spinning-after-successful-motor-setup/26525
-- https://endless-sphere.com/sphere/threads/anyone-experienced-with-vesc-foc-sensorless.100798/
-- https://vesc-project.com/node/4502
-- https://vesc-project.com/node/4564
-- https://forum.esk8.news/t/motors-not-working-and-making-violent-sounds-after-foc-configuration/68688
+- Articles that seem to describe my problem
+    - https://forum.esk8.news/t/one-motor-not-spinning-after-successful-motor-setup/26525
+    - https://endless-sphere.com/sphere/threads/anyone-experienced-with-vesc-foc-sensorless.100798/
+    - https://vesc-project.com/node/4502
+    - https://vesc-project.com/node/4564
+    - https://forum.esk8.news/t/motors-not-working-and-making-violent-sounds-after-foc-configuration/68688
+- The motor seemed to work reasonably well after [this FOC Detection Result](https://i.imgur.com/M4PzxR8.png).
+    - Iterations of this:
+    - Iteration 2: https://i.imgur.com/XsOZNj7.png
+    - Iteration 3: https://i.imgur.com/KFRICJm.png, but be sure to set "Current No Reverse" (not "Current No Reserve with Brake") in the PPM input settings.
+    - Iteration 4: https://i.imgur.com/eYmxS4e.png
 
 ## Inspiration
 - https://www.youtube.com/watch?v=9rIIJbDkpN8
