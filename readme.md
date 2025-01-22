@@ -44,8 +44,8 @@ I may make my own eScooter/eBike.
     - Amazon
         - $72: 50A, 3-12S VESC: https://a.co/d/eVvcFJE (*Amazon Prime*)
         - $99: 200A, 5-12S ESC: https://a.co/d/26q7Vlr
-        - $119, 150A 5-12S ESC (no BED): https://a.co/d/6W6F2w9
-        - $59, 100A 5-12S ESC (no BED): https://a.co/d/gSVhW4V
+        - $119, 150A 5-12S ESC (no BEC): https://a.co/d/6W6F2w9
+        - $59, 100A 5-12S ESC (no BEC): https://a.co/d/gSVhW4V
             - https://sequremall.com/products/sequre-12100-brushless-electric-speed-controller-5-12s-power-supply-100a-blheli_32-am32-firmware-support-128khz-pwm-frequency-suitable-for-multi-rotor-aircrafts-airplane-models-plant-protection-machine-boat-models-rc-car-models?variant=43436914704572
             - https://alofthobbies.com/products/sequre-100-amp-esc-5-12s
             - Set up guide: https://drive.google.com/file/d/1Ad84Rms98xa7bZ2ibhUmMPNMh6rs4cjZ/view
