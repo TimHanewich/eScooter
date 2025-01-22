@@ -41,12 +41,25 @@ I may make my own eScooter/eBike.
     - 60A 12S ESC: https://store.tmotor.com/product/alpha-60a-12s-esc.html
     - 120A 12S ESC: https://store.tmotor.com/product/alpha-120a-12s-esc.html
     - 80A, 12S ESC: https://www.progressiverc.com/products/t-motor-c80a-12s-esc?variant=41713640571015&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c
-    - $72: 50A, 3-12S ESC: https://a.co/d/eVvcFJE (*Amazon Prime*)
-    - $99: 200A, 5-12S ESC: https://a.co/d/26q7Vlr
+    - Amazon
+        - $72: 50A, 3-12S VESC: https://a.co/d/eVvcFJE (*Amazon Prime*)
+        - $99: 200A, 5-12S ESC: https://a.co/d/26q7Vlr
+        - $119, 150A 5-12S ESC (no BED): https://a.co/d/6W6F2w9
+        - $59, 100A 5-12S ESC (no BED): https://a.co/d/gSVhW4V
+            - https://sequremall.com/products/sequre-12100-brushless-electric-speed-controller-5-12s-power-supply-100a-blheli_32-am32-firmware-support-128khz-pwm-frequency-suitable-for-multi-rotor-aircrafts-airplane-models-plant-protection-machine-boat-models-rc-car-models?variant=43436914704572
+            - https://alofthobbies.com/products/sequre-100-amp-esc-5-12s
+            - Set up guide: https://drive.google.com/file/d/1Ad84Rms98xa7bZ2ibhUmMPNMh6rs4cjZ/view
     - $140: 120A, 12S ESC: https://www.underwaterthruster.com/products/apisqueen-lightning-esc-12s-lipo-48v-60a-120a-160a-for-thrusters-brushless-motors-drones-etc?variant=44063481397476&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gQT=2
 - 5V Buck Converter
     - https://a.co/d/enad4n0
     - https://a.co/d/2DZnsPa
+
+## VESC Challenges
+- https://forum.esk8.news/t/one-motor-not-spinning-after-successful-motor-setup/26525
+- https://endless-sphere.com/sphere/threads/anyone-experienced-with-vesc-foc-sensorless.100798/
+- https://vesc-project.com/node/4502
+- https://vesc-project.com/node/4564
+- https://forum.esk8.news/t/motors-not-working-and-making-violent-sounds-after-foc-configuration/68688
 
 ## Inspiration
 - https://www.youtube.com/watch?v=9rIIJbDkpN8
