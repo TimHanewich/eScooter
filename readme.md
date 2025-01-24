@@ -8,7 +8,7 @@ I may make my own eScooter/eBike.
     - [Online listing on facebook marketplace](https://www.facebook.com/marketplace/item/3741195909458022/?_rdr)
 - Motor: Platinum 5230SL 190KV
     - Listings:
-        - [On Hobby Wing](https://www.hobbywingdirect.com/products/platinum-fw-5230-motors?variant=42212563452019)
+        - [On Hobby Wing](http  s://www.hobbywingdirect.com/products/platinum-fw-5230-motors?variant=42212563452019)
             - [Marketing Page](https://www.hobbywing.com/en/products/Platinum5230.html)
             - [Specs](https://cdn.shopify.com/s/files/1/0109/9702/files/pl5230-data.pdf?v=1724706933)
         - [On Hobby King](https://www.towerhobbies.com/product/platinum-5230sl-motor-190kv/HWI30416200.html)
@@ -17,11 +17,8 @@ I may make my own eScooter/eBike.
     - 112A max current (stall)
     - 4,895w max power
     - It appears to use 4mm male bullet connectors, just like [this motor does](https://a.co/d/dk6BBRY).
-- ESC: [Flipsky ESC](https://a.co/d/dBIZRvv)
-    - 3-13S (8 volts - 60 volts)
-    - 50A continuous
-    - 150A burst
-    - PWM input
+- [ESC](https://a.co/d/0q2reOV)
+    - Manual: https://maifile.cn/est/a660b60abe5735/pdf, but stored pictures of it [here](https://imgur.com/a/tfH6Hq5).
 - Batteries: 3 [4S 3300 mAh LiPo batterys (60C)](https://a.co/d/cUkfjpm), in a series (effectively 12S)
 - [5V Buck Converter](https://a.co/d/enad4n0)
 
@@ -70,3 +67,4 @@ I may make my own eScooter/eBike.
 ## Inspiration
 - https://www.youtube.com/watch?v=9rIIJbDkpN8
     - [Motor he used](https://hobbyking.com/en_us/turnigy-aerodrive-sk3-6374-149kv-brushless-outrunner-motor.html/?___store=en_us): $105, 149KV, 2700W, 12S
+    - [3D Printed Parts](https://www.thingiverse.com/thing:2191603)
