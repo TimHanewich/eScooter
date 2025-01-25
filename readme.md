@@ -6,9 +6,10 @@ I may make my own eScooter/eBike.
     - [My actual bike](https://i.imgur.com/GaSKJRi.jpeg)
     - [Online listing](https://www.propertyroom.com/l/schwinn-sx2000-mountain-bike/10507696)
     - [Online listing on facebook marketplace](https://www.facebook.com/marketplace/item/3741195909458022/?_rdr)
+    - [This tutorial](https://youtu.be/Aj35ce6RfEM?si=b9BWHbFmZhSQtrBy) demonstrates removing the crank that looks like a square, like my bike.
 - Motor: Platinum 5230SL 190KV
     - Listings:
-        - [On Hobby Wing](http  s://www.hobbywingdirect.com/products/platinum-fw-5230-motors?variant=42212563452019)
+        - [On Hobby Wing](https://www.hobbywingdirect.com/products/platinum-fw-5230-motors?variant=42212563452019)
             - [Marketing Page](https://www.hobbywing.com/en/products/Platinum5230.html)
             - [Specs](https://cdn.shopify.com/s/files/1/0109/9702/files/pl5230-data.pdf?v=1724706933)
         - [On Hobby King](https://www.towerhobbies.com/product/platinum-5230sl-motor-190kv/HWI30416200.html)
@@ -19,6 +20,7 @@ I may make my own eScooter/eBike.
     - It appears to use 4mm male bullet connectors, just like [this motor does](https://a.co/d/dk6BBRY).
 - [ESC](https://a.co/d/0q2reOV)
     - Manual: https://maifile.cn/est/a660b60abe5735/pdf, but stored pictures of it [here](https://imgur.com/a/tfH6Hq5).
+    - I tested it at 4S, it works at 4S despite it saying 5-12S.
 - Batteries: 3 [4S 3300 mAh LiPo batterys (60C)](https://a.co/d/cUkfjpm), in a series (effectively 12S)
 - [5V Buck Converter](https://a.co/d/enad4n0)
 
