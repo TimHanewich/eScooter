@@ -17,6 +17,9 @@ I may make my own eScooter/eBike.
     - Voltage: 12S, but specs show it performing at 10S, so lower S's should work.
     - 112A max current (stall)
     - 4,895w max power
+    - Measurements
+        - Inner holes (M4) = 30mm apart
+        - Outer holes (M4) = 45mm apart
     - It appears to use 4mm male bullet connectors, just like [this motor does](https://a.co/d/dk6BBRY).
 - [ESC](https://a.co/d/0q2reOV)
     - Manual: https://maifile.cn/est/a660b60abe5735/pdf, but stored pictures of it [here](https://imgur.com/a/tfH6Hq5).
