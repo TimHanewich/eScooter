@@ -75,4 +75,5 @@ I may make my own eScooter/eBike.
     - [3D Printed Parts](https://www.thingiverse.com/thing:2191603)
 - [This video](https://www.youtube.com/watch?v=V4ohWg4GfYc) describes designing and 3D printing a sprocket.
 - [This defaileur pulley](https://www.thingiverse.com/thing:4677579/files) fit perfectly! (I printed and tried)
-    - Specs (reversed engineered): https://i.imgur.com/lh8shhd.png
+    - Specs (reversed engineered): https://i.imgur.com/SSaZPZ7.png (10.28mm pitch?)
+    - I remixed it [here](https://www.thingiverse.com/thing:6930961).
