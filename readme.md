@@ -76,4 +76,9 @@ I may make my own eScooter/eBike.
 - [This video](https://www.youtube.com/watch?v=V4ohWg4GfYc) describes designing and 3D printing a sprocket.
 - [This defaileur pulley](https://www.thingiverse.com/thing:4677579/files) fit perfectly! (I printed and tried)
     - Specs (reversed engineered): https://i.imgur.com/SSaZPZ7.png (10.28mm pitch?)
+        - I think these specs are wrong... 
+        - I think the gear maker in Blender has its measurements off.
+        - When I make a gear with a 12.7mm pitch in FreeCAD and then import it into Blender, it matches this gear with apparently a 10.28mm pitch... 
+        - Blender must have its measurements off somehow.
+        - So, anyway, if you design a gear in blender, I guess use a 10.28mm pitch because that is *actually* a 12.7mm pitch!
     - I remixed it [here](https://www.thingiverse.com/thing:6930961).
