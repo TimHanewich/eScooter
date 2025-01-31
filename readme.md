@@ -19,8 +19,10 @@ I may make my own eScooter/eBike.
     - 4,895w max power
     - Measurements
         - Inner holes (M4) = 30mm apart
-        - Outer holes (M4) = 45mm apart
+        - Outer holes (M4) = 44mm apart
     - It appears to use 4mm male bullet connectors, just like [this motor does](https://a.co/d/dk6BBRY).
+- [Motor Coupling](https://a.co/d/3mqO0bW) used to mount the gear to the motor shaft.
+    - The 4 holes on the disc are 24mm apart from the opposite side (so 12mm from the center)
 - [ESC](https://a.co/d/0q2reOV)
     - Manual: https://maifile.cn/est/a660b60abe5735/pdf, but stored pictures of it [here](https://imgur.com/a/tfH6Hq5).
     - I tested it at 4S, it works at 4S despite it saying 5-12S.
