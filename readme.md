@@ -80,9 +80,10 @@ The design I used is custom-developed *specifically* for my bike, a **Schwinn SX
     - Iteration 4: https://i.imgur.com/eYmxS4e.png
 
 ## Inspiration
-- https://www.youtube.com/watch?v=9rIIJbDkpN8
+- [Tom Stanton eBike V1](https://www.youtube.com/watch?v=9rIIJbDkpN8)
     - [Motor he used](https://hobbyking.com/en_us/turnigy-aerodrive-sk3-6374-149kv-brushless-outrunner-motor.html/?___store=en_us): $105, 149KV, 2700W, 12S
     - [3D Printed Parts](https://www.thingiverse.com/thing:2191603)
+- [Tom Stanton eBike V2](https://www.youtube.com/watch?v=IymLqEPUkvw)
 - [This video](https://www.youtube.com/watch?v=V4ohWg4GfYc) describes designing and 3D printing a sprocket.
 - [This defaileur pulley](https://www.thingiverse.com/thing:4677579/files) fit perfectly! (I printed and tried)
     - Specs (reversed engineered): https://i.imgur.com/SSaZPZ7.png (10.28mm pitch?)
