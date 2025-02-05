@@ -7,6 +7,7 @@ I may make my own eScooter/eBike.
     - [Online listing](https://www.propertyroom.com/l/schwinn-sx2000-mountain-bike/10507696)
     - [Online listing on facebook marketplace](https://www.facebook.com/marketplace/item/3741195909458022/?_rdr)
     - [This tutorial](https://youtu.be/Aj35ce6RfEM?si=b9BWHbFmZhSQtrBy) demonstrates removing the crank that looks like a square, like my bike.
+    - The largest rear gear has **28** teeth. This 28-tooth gear is about **4.5 inches** (approx) in diameter.
 - Motor: Platinum 5230SL 190KV
     - Listings:
         - [On Hobby Wing](https://www.hobbywingdirect.com/products/platinum-fw-5230-motors?variant=42212563452019)
