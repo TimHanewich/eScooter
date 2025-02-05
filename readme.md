@@ -94,3 +94,6 @@ The design I used is custom-developed *specifically* for my bike, a **Schwinn SX
         - Blender must have its measurements off somehow.
         - So, anyway, if you design a gear in blender, I guess use a 10.28mm pitch because that is *actually* a 12.7mm pitch!
     - I remixed it [here](https://www.thingiverse.com/thing:6930961).
+- [Michael Rechtin made a nice stackable gearbox](https://youtu.be/G0DcM60lWSw?si=MsUi8FOoKw17uXnp)
+    - [20x27x4mm bearing](https://a.co/d/306vlTe)
+    - [45x58x7mm bearing](https://a.co/d/fQ6uB3k)
