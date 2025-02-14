@@ -8,6 +8,8 @@ I may make my own eScooter/eBike.
     - [Online listing on facebook marketplace](https://www.facebook.com/marketplace/item/3741195909458022/?_rdr)
     - [This tutorial](https://youtu.be/Aj35ce6RfEM?si=b9BWHbFmZhSQtrBy) demonstrates removing the crank that looks like a square, like my bike.
     - The largest rear gear has **28** teeth. This 28-tooth gear is about **4.5 inches** (approx) in diameter.
+    - The "rear pole" (the pole that I'm mounting the gear box on) has a diameter of __ mm.
+    - The "bottom pole" (the pole the other two screws go into) has a diameter of approx. 48.5 mm.
 - Motor: Platinum 5230SL 190KV
     - Listings:
         - [On Hobby Wing](https://www.hobbywingdirect.com/products/platinum-fw-5230-motors?variant=42212563452019)
