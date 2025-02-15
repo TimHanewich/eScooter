@@ -10,6 +10,7 @@ I may make my own eScooter/eBike.
     - The largest rear gear has **28** teeth. This 28-tooth gear is about **4.5 inches** (approx) in diameter.
     - The "rear pole" (the pole that I'm mounting the gear box on) has a diameter of __ mm.
     - The "bottom pole" (the pole the other two screws go into) has a diameter of approx. 48.5 mm.
+    - The two screws that screw into the frame for the water bottle holder are **M5*15mm** screws.
 - Motor: Platinum 5230SL 190KV
     - Listings:
         - [On Hobby Wing](https://www.hobbywingdirect.com/products/platinum-fw-5230-motors?variant=42212563452019)
