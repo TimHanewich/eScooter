@@ -32,11 +32,8 @@ I may make my own eScooter/eBike.
     - I tested it at 4S, it works at 4S despite it saying 5-12S.
 - Batteries: 3 [4S 3300 mAh LiPo batterys (60C)](https://a.co/d/cUkfjpm), in a series (effectively 12S)
 - [5V Buck Converter](https://a.co/d/enad4n0)
-- Throttle: 
-    - https://a.co/d/bPylNVQ
-    - https://a.co/d/7fW30yy
-    - https://a.co/d/9izmlig
-    - https://a.co/d/9ZHbW0z
+- [eBike Thumb Throttle](https://a.co/d/3h9mEAN)
+    - [wiring](https://m.media-amazon.com/images/I/61KwWizb+DL._AC_SX679_.jpg)
 
 ## How to mount the motor
 The design I used is custom-developed *specifically* for my bike, a **Schwinn SX2000 Mountain Bike** from around 2006 or so.
