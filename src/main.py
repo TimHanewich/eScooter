@@ -10,6 +10,10 @@ pwm = machine.PWM(machine.Pin(0))
 pwm.freq(50)
 pwm.duty_u16(0) # start at 0
 
+# turn on light
+led = machine.Pin(25, machine.Pin.OUT)
+led.high()
+
 while True:
 
     # read input from throttle
