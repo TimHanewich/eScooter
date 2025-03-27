@@ -10,7 +10,7 @@ class Throttle:
         
         # private settings
         # ADC min + max, determined by 5V or 3.3V source... adjust these to also build in deadzones as needed
-        self._throttle_min:int = 20000 # modify this to build in a dead zone, if needed (it should be at absolute 0% when not depressed at all)
+        self._throttle_min:int = 20150 # modify this to build in a dead zone, if needed (it should be at absolute 0% when not depressed at all)
         self._throttle_max:int = 50000 # modify this to build in a dead zone, if needed
 
         # internal variables
