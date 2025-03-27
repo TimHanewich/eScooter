@@ -3,6 +3,7 @@ import machine
 class Throttle:
 
     def __init__(self, adc_gpio:int):
+        """Supply the GP# of the pin, not the pin number (i.e. Raspberry Pi Pico has ADC pins GP26-GP28)"""
         
         # public settings
         self.alpha:float = 0.9 # how sharp the throttle response is. A higher alpha is smoother, but less throttle response. A lower value has a higher throttle response, but can become jerky
