@@ -1,4 +1,13 @@
+# set up SSD-1306 and show loading sign first
 import machine
+import ssd1306
+i2c = machine.I2C(0, sda=machine.Pin(16), scl=machine.Pin(17))
+print("I2C devices: " + str(i2c.scan()))
+oled = ssd1306.SSD1306_I2C(128, 64, i2c)
+oled.fill(0)
+oled.text("Loading...", 0, 0)
+oled.show()
+
 import throttle
 import time
 
@@ -32,6 +41,12 @@ while True:
 
     # print?
     print("Throttle Input = " + str(int(throttle_percent * 100)) + "%, Throttle Input After Governor = " + str(int(throttle_percent_governed * 100)) + "% duty in nanoseconds = " + str(duty_ns))
+
+    # show on OLED display
+    oled.fill(0)
+    oled.text("TI: " + str(int(throttle_percent * 100)) + "%", 0, 0)
+    oled.text("TG: " + str(int(throttle_percent_governed * 100)) + "%", 0, 12)
+    oled.show()
 
     # apply
     pwm.duty_ns(duty_ns)
