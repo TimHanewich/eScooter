@@ -20,7 +20,7 @@ while True:
     throttle_percent:float = t.read()
 
     # apply a governor to the throttle
-    governor:float = 0.5 # cut to X% power
+    governor:float = 0.25 # cut to X% power
     throttle_percent_governed:float = throttle_percent * governor
 
     # calcualte what duty cycle to enact, in nanoseconds
