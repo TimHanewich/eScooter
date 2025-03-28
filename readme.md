@@ -71,6 +71,9 @@ The design I used is custom-developed *specifically* for my bike, a **Schwinn SX
 - 5V Buck Converter
     - https://a.co/d/enad4n0
     - https://a.co/d/2DZnsPa
+- Hose Clamps
+    - [2.5" Clamps](https://a.co/d/6WDhVfk) are used for the motor mount on the bottom pole
+    - 2 hose clamps from Ford's Garage (I think shorter than 2.5"... maybe 1.5"?) are used to mount the gearbox to the mid-pole (verticall)
 
 ## VESC Challenges
 - Articles that seem to describe my problem
