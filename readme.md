@@ -67,6 +67,10 @@ I may make my own eScooter/eBike.
     - [2.5" Clamps](https://a.co/d/6WDhVfk) are used for the motor mount on the bottom pole *(they say KSI on the lock)*
     - 2 hose clamps from Ford's Garage (I think shorter than 2.5"... maybe 1.5"?) are used to mount the gearbox to the mid-pole (verticall) *(they say 304 on the lock)*
 
+## Blender 3D Design File Dumps
+Periodic dumping the Blender design file history.
+- [Dump on March 31, 2025](https://github.com/TimHanewich/eBike/releases/download/1/design.zip)
+
 ## Inspiration
 - [Tom Stanton eBike V1](https://www.youtube.com/watch?v=9rIIJbDkpN8)
     - [Motor he used](https://hobbyking.com/en_us/turnigy-aerodrive-sk3-6374-149kv-brushless-outrunner-motor.html/?___store=en_us): $105, 149KV, 2700W, 12S
