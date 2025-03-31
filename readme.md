@@ -35,14 +35,6 @@ I may make my own eScooter/eBike.
 - [eBike Thumb Throttle](https://a.co/d/3h9mEAN)
     - [wiring](https://m.media-amazon.com/images/I/61KwWizb+DL._AC_SX679_.jpg)
 
-## How to mount the motor
-The design I used is custom-developed *specifically* for my bike, a **Schwinn SX2000 Mountain Bike** from around 2006 or so.
-1. Attach motor **motor mount** to **pole mount** using the M4 screws.
-2. Attach the **pole mount** to the **pole** (on bike) using the M5 screws the bike came with.
-3. Attach the motor to the **motor mount** using M4 screws.
-4. Attach the gear (sprocket) to the motor using the universal coupler.
-5. Run the chain over the sprocket gear of the motor.
-
 ## Shopping
 - For motors
     - brushless.com
