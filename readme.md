@@ -67,19 +67,6 @@ I may make my own eScooter/eBike.
     - [2.5" Clamps](https://a.co/d/6WDhVfk) are used for the motor mount on the bottom pole *(they say KSI on the lock)*
     - 2 hose clamps from Ford's Garage (I think shorter than 2.5"... maybe 1.5"?) are used to mount the gearbox to the mid-pole (verticall) *(they say 304 on the lock)*
 
-## VESC Challenges
-- Articles that seem to describe my problem
-    - https://forum.esk8.news/t/one-motor-not-spinning-after-successful-motor-setup/26525
-    - https://endless-sphere.com/sphere/threads/anyone-experienced-with-vesc-foc-sensorless.100798/
-    - https://vesc-project.com/node/4502
-    - https://vesc-project.com/node/4564
-    - https://forum.esk8.news/t/motors-not-working-and-making-violent-sounds-after-foc-configuration/68688
-- The motor seemed to work reasonably well after [this FOC Detection Result](https://i.imgur.com/M4PzxR8.png).
-    - Iterations of this:
-    - Iteration 2: https://i.imgur.com/XsOZNj7.png
-    - Iteration 3: https://i.imgur.com/KFRICJm.png, but be sure to set "Current No Reverse" (not "Current No Reserve with Brake") in the PPM input settings.
-    - Iteration 4: https://i.imgur.com/eYmxS4e.png
-
 ## Inspiration
 - [Tom Stanton eBike V1](https://www.youtube.com/watch?v=9rIIJbDkpN8)
     - [Motor he used](https://hobbyking.com/en_us/turnigy-aerodrive-sk3-6374-149kv-brushless-outrunner-motor.html/?___store=en_us): $105, 149KV, 2700W, 12S
