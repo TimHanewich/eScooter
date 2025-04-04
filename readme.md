@@ -70,6 +70,7 @@ I may make my own eScooter/eBike.
 ## Blender 3D Design File Dumps
 Periodic dumping the Blender design file history.
 - [Dump on March 31, 2025](https://github.com/TimHanewich/eBike/releases/download/1/design.zip)
+- [Dump on April 4, 2025](https://github.com/TimHanewich/eBike/releases/download/2/design.zip)
 
 ## Inspiration
 - [Tom Stanton eBike V1](https://www.youtube.com/watch?v=9rIIJbDkpN8)
