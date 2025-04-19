@@ -66,6 +66,8 @@ I may make my own eScooter/eBike.
 - Hose Clamps
     - [2.5" Clamps](https://a.co/d/6WDhVfk) are used for the motor mount on the bottom pole *(they say KSI on the lock)*
     - 2 hose clamps from Ford's Garage (I think shorter than 2.5"... maybe 1.5"?) are used to mount the gearbox to the mid-pole (verticall) *(they say 304 on the lock)*
+- Steel Gears if my 3D printed gears do not work
+    - https://a.co/d/iFhYZLX
 
 ## Blender 3D Design File Dumps
 Periodic dumping the Blender design file history.
