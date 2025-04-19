@@ -74,6 +74,9 @@ Periodic dumping the Blender design file history.
 - [Dump on March 31, 2025](https://github.com/TimHanewich/eBike/releases/download/1/design.zip)
 - [Dump on April 4, 2025](https://github.com/TimHanewich/eBike/releases/download/2/design.zip)
 
+### Notable Blender Design Files
+- **design49.blend** = design used [on this test](https://youtu.be/8QopB0LM2to). Has a flaw of no spacer between gear and gearbox wall. Fixed this in future iterations.
+
 ## Inspiration
 - [Tom Stanton eBike V1](https://www.youtube.com/watch?v=9rIIJbDkpN8)
     - [Motor he used](https://hobbyking.com/en_us/turnigy-aerodrive-sk3-6374-149kv-brushless-outrunner-motor.html/?___store=en_us): $105, 149KV, 2700W, 12S
