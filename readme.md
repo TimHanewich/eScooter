@@ -34,6 +34,9 @@ I may make my own eScooter/eBike.
 - [5V Buck Converter](https://a.co/d/enad4n0)
 - [eBike Thumb Throttle](https://a.co/d/3h9mEAN)
     - [wiring](https://m.media-amazon.com/images/I/61KwWizb+DL._AC_SX679_.jpg)
+- Hose Clamps
+    - [2.5" Clamps](https://a.co/d/6WDhVfk) are used for the motor mount on the bottom pole *(they say KSI on the lock)*
+    - 2 hose clamps from Ford's Garage (I think shorter than 2.5"... maybe 1.5"?) are used to mount the gearbox to the mid-pole (verticall) *(they say 304 on the lock)*
 
 ## Shopping
 - For motors
@@ -63,9 +66,6 @@ I may make my own eScooter/eBike.
 - 5V Buck Converter
     - https://a.co/d/enad4n0
     - https://a.co/d/2DZnsPa
-- Hose Clamps
-    - [2.5" Clamps](https://a.co/d/6WDhVfk) are used for the motor mount on the bottom pole *(they say KSI on the lock)*
-    - 2 hose clamps from Ford's Garage (I think shorter than 2.5"... maybe 1.5"?) are used to mount the gearbox to the mid-pole (verticall) *(they say 304 on the lock)*
 - Steel Gears if my 3D printed gears do not work
     - https://a.co/d/iFhYZLX
 
