@@ -44,7 +44,7 @@ try: # place entire program in try bracket to catch any error
         duty_ns = min(max(duty_ns, 1000000), 2000000) # min/max just to be sure we are not passing an invalid value to the motor
 
         # print?
-        print("Throttle Input = " + str(int(throttle_percent * 100)) + "%, Throttle Input After Governor = " + str(int(throttle_percent_governed * 100)) + "% duty in nanoseconds = " + str(duty_ns))
+        print(str(time.ticks_ms()) + ": Throttle Input = " + str(int(throttle_percent * 100)) + "%, Throttle Input After Governor = " + str(int(throttle_percent_governed * 100)) + "% duty in nanoseconds = " + str(duty_ns))
 
         # show on OLED display
         if oled != None:
