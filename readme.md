@@ -1,7 +1,7 @@
 # eScooter
 I may make my own eScooter/eBike.
 
-## Possible Configuration
+## Configuration
 - Bike: Schwinn SX2000 Mountain Bike
     - [My actual bike](https://i.imgur.com/GaSKJRi.jpeg)
     - [Online listing](https://www.propertyroom.com/l/schwinn-sx2000-mountain-bike/10507696)
@@ -37,45 +37,6 @@ I may make my own eScooter/eBike.
 - Hose Clamps
     - [2.5" Clamps](https://a.co/d/6WDhVfk) are used for the motor mount on the bottom pole *(they say KSI on the lock)*
     - 2 hose clamps from Ford's Garage (I think shorter than 2.5"... maybe 1.5"?) are used to mount the gearbox to the mid-pole (verticall) *(they say 304 on the lock)*
-
-## Shopping
-- For motors
-    - brushless.com
-    - hobbyking.com
-    - [Tower Hobbies](https://www.towerhobbies.com/airplanes/parts-electronics-and-accessories/motors/?prefn1=discontinued&prefv1=false&start=0&sz=24&return=true)
-        - $250, 230KV, 3750w, 9-15S: https://www.towerhobbies.com/product/avian-8075-230kv-outrunner-brushless-motor/SPMXAM4800.html
-        - $300, 160KV, 4400w,9-15S: https://www.towerhobbies.com/product/avian-8085-160kv-outrunner-brushless-motor/SPMXAM4805.html
-        - $200, 200KV, 1900w, 9-12S: https://www.towerhobbies.com/product/avian-6362-200kv-outrunner-brushless-motor/SPMXAM4796.html
-        - $85, 250KV, ___w, 12s: https://www.towerhobbies.com/product/platinum-4120sl-motor-250kv/HWI30416000.html
-        - $120, 220KV, ___w, __s: https://www.towerhobbies.com/product/platinum-5220sl-motor-220kv/HWI30416150.html
-        - $140, 190KV, ___w, __s: https://www.towerhobbies.com/product/platinum-5230sl-motor-190kv/HWI30416200.html
-            - Specification chart: [page 1](https://cdn.shopify.com/s/files/1/0109/9702/files/5200s-spec0.png?v=1724707806), [page 2](https://cdn.shopify.com/s/files/1/0109/9702/files/5200s-spec1.png?v=1724707804), found [here](https://www.hobbywingdirect.com/collections/hobbywing-brushless-motors-aircraft/products/platinum-fw-5220-motors?variant=42212271358067)
-- For ESC
-    - 60A 12S ESC: https://store.tmotor.com/product/alpha-60a-12s-esc.html
-    - 120A 12S ESC: https://store.tmotor.com/product/alpha-120a-12s-esc.html
-    - 80A, 12S ESC: https://www.progressiverc.com/products/t-motor-c80a-12s-esc?variant=41713640571015&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c
-    - Amazon
-        - $72: 50A, 3-12S VESC: https://a.co/d/eVvcFJE (*Amazon Prime*)
-        - $99: 200A, 5-12S ESC: https://a.co/d/26q7Vlr
-        - $119, 150A 5-12S ESC (no BEC): https://a.co/d/6W6F2w9
-        - $59, 100A 5-12S ESC (no BEC): https://a.co/d/gSVhW4V
-            - https://sequremall.com/products/sequre-12100-brushless-electric-speed-controller-5-12s-power-supply-100a-blheli_32-am32-firmware-support-128khz-pwm-frequency-suitable-for-multi-rotor-aircrafts-airplane-models-plant-protection-machine-boat-models-rc-car-models?variant=43436914704572
-            - https://alofthobbies.com/products/sequre-100-amp-esc-5-12s
-            - Set up guide: https://drive.google.com/file/d/1Ad84Rms98xa7bZ2ibhUmMPNMh6rs4cjZ/view
-    - $140: 120A, 12S ESC: https://www.underwaterthruster.com/products/apisqueen-lightning-esc-12s-lipo-48v-60a-120a-160a-for-thrusters-brushless-motors-drones-etc?variant=44063481397476&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gQT=2
-- 5V Buck Converter
-    - https://a.co/d/enad4n0
-    - https://a.co/d/2DZnsPa
-- Steel Gears if my 3D printed gears do not work
-    - https://a.co/d/iFhYZLX
-
-## Blender 3D Design File Dumps
-Periodic dumping the Blender design file history.
-- [Dump on March 31, 2025](https://github.com/TimHanewich/eBike/releases/download/1/design.zip)
-- [Dump on April 4, 2025](https://github.com/TimHanewich/eBike/releases/download/2/design.zip)
-
-### Notable Blender Design Files
-- **design49.blend** = design used [on this test](https://youtu.be/8QopB0LM2to). Has a flaw of no spacer between gear and gearbox wall. Fixed this in future iterations.
 
 ## Inspiration
 - [Tom Stanton eBike V1](https://www.youtube.com/watch?v=9rIIJbDkpN8)
