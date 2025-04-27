@@ -1,11 +1,11 @@
 # turn on light to indicate it is on
+import machine
 led = machine.Pin(25, machine.Pin.OUT)
 led.high()
 
 try: # place entire program in try bracket to catch any error
 
     # set up SSD-1306 and show loading sign first
-    import machine
     import ssd1306
     i2c = machine.I2C(0, sda=machine.Pin(16), scl=machine.Pin(17))
     print("I2C devices: " + str(i2c.scan()))
