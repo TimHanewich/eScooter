@@ -38,6 +38,23 @@ I may make my own eScooter/eBike.
     - [2.5" Clamps](https://a.co/d/6WDhVfk) are used for the motor mount on the bottom pole *(they say KSI on the lock)*
     - 2 hose clamps from Ford's Garage (I think shorter than 2.5"... maybe 1.5"?) are used to mount the gearbox to the mid-pole (verticall) *(they say 304 on the lock)*
 
+## All Development Media
+- January 25, 2025: [Photos of Bike Before Modifying it](https://imgur.com/a/QJfTLXH)
+- January 27, 2025: [Determining Motor Mounting Position](https://imgur.com/a/0CeCH1P)
+- January 31, 2025: [Original Motor Mounting](https://imgur.com/a/6YDlS4K)
+- February 2, 2025: [Motor Startup Hesitation](https://youtu.be/MqxyXDnDgKA)
+- February 2, 2025: [Motor Running Test with Gear Shifting](https://youtu.be/jSprWTQn9RQ)
+- Februry 28, 2025: [New Gearbox Mounted](https://imgur.com/a/rcUkqlp)
+- March 12, 2025: [Shaft Slippage](https://imgur.com/a/C1VOYFI)
+- March 15, 2025: [No More Slippage (notches etched into shafts)](https://imgur.com/a/ccalIE8)
+- March 16, 2025: [Demonstrating Motor Connection](https://imgur.com/a/e7eUgE7)
+- March 27, 2025: [Full Drivetrain Test](https://youtu.be/gY1TRV99fqI)
+- March 27, 2025: [eBike Development](https://youtu.be/JQQ2eHjpAwc)
+- April 4, 2025: [First Test Run](https://youtu.be/8QopB0LM2to)
+- April 27, 2025: Second Test Run
+    - [Pictures of damage](https://imgur.com/a/OvujgRJ)
+    - [Full Video and Pictures (unedited)](https://youtu.be/GyaS9Lfgngo)
+
 ## Inspiration
 - [Tom Stanton eBike V1](https://www.youtube.com/watch?v=9rIIJbDkpN8)
     - [Motor he used](https://hobbyking.com/en_us/turnigy-aerodrive-sk3-6374-149kv-brushless-outrunner-motor.html/?___store=en_us): $105, 149KV, 2700W, 12S
