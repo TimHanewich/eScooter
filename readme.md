@@ -54,6 +54,7 @@ I may make my own eScooter/eBike.
 - April 27, 2025: Second Test Run
     - [Pictures of damage](https://imgur.com/a/OvujgRJ)
     - [Full Video and Pictures (unedited)](https://youtu.be/GyaS9Lfgngo)
+    - [Hairline fracture in gearbox mount](https://i.imgur.com/Xe3rbP3.jpeg)
 
 ## Inspiration
 - [Tom Stanton eBike V1](https://www.youtube.com/watch?v=9rIIJbDkpN8)
