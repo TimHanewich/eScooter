@@ -55,6 +55,9 @@ I may make my own eScooter/eBike.
     - [Pictures of damage](https://imgur.com/a/OvujgRJ)
     - [Full Video and Pictures (unedited)](https://youtu.be/GyaS9Lfgngo)
     - [Hairline fracture in gearbox mount](https://i.imgur.com/Xe3rbP3.jpeg)
+- May 23, 2025: Third test run (with 608 bearings in gearbox)
+    - [Pictures of assembling gearbox](https://imgur.com/a/RMSh9od)
+    - [Full video](https://youtu.be/m6RZ3c31-8g)
 
 ## Inspiration
 - [Tom Stanton eBike V1](https://www.youtube.com/watch?v=9rIIJbDkpN8)
